@@ -1,14 +1,18 @@
 ---
-title: "Billboard Top 100 Analysis"
+title: "Billboard Top 100"
 layout: post
-date: 2016-07-11 11:01
-image: '/assets/images/'
-description:
-tag:
-blog: true
-jemoji:
-author:
+date: 2016-01-23 22:10
+tag: jekyll
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: johndoe
+externalLink: false
 ---
+
 
 # Analysis of Billboard Hits 
 
